@@ -8,17 +8,6 @@
     "percentToQualify": "58",
     "password": "",
     "records": [
-        {
-            "user": "",
-            "link": "",
-            "percent": ,
-            "hz": 
-        },
-        {
-            "user": "",
-            "link": "",
-            "percent": ,
-            "hz": 
-        }
+        { 
     ]
 }
