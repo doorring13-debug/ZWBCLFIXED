@@ -99,30 +99,27 @@ export default {
                         </ol>
                     </template>
                     <h3>Submission Requirements</h3>
-                    <p>
-                        Achieved the record without using hacks (however, FPS bypass is allowed, up to 360fps)
-                    </p>
-                    <p>
-                        Achieved the record on the level that is listed on the site - please check the level ID before you submit a record
-                    </p>
-                    <p>
-                        Have either source audio or clicks/taps in the video. Edited audio only does not count
-                    </p>
-                    <p>
-                        The recording must have a previous attempt and entire death animation shown before the completion, unless the completion is on the first attempt. Everyplay records are exempt from this
-                    </p>
-                    <p>
-                        The recording must also show the player hit the endwall, or the completion will be invalidated.
-                    </p>
-                    <p>
-                        Do not use secret routes or bug routes
-                    </p>
-                    <p>
-                        Do not use easy modes, only a record of the unmodified level qualifies
-                    </p>
-                    <p>
-                        Once a level falls onto the Legacy List, we accept records for it for 24 hours after it falls off, then afterwards we never accept records for said level
-                    </p>
+                   <p>
+    Make sure your run was completed on the exact level listed on the site. Always verify the level ID before submitting.
+</p>
+<p>
+    Your video must contain either the level's original audio or clear click/tap sounds. Edited or replaced audio by itself is not sufficient.
+</p>
+<p>
+    The recording should show enough of the attempt to verify that the run was played normally, including the death sequence before the successful run when applicable.
+</p>
+<p>
+    The completion must clearly show the player reaching the level's ending. If the ending cannot be verified, the submission may be rejected.
+</p>
+<p>
+    Shortcuts, unintended routes, and known bug paths cannot be used to obtain a record.
+</p>
+<p>
+    Only runs completed on the standard, unmodified version of the level are eligible.
+</p>
+<p>
+    Records for levels that have moved to the Legacy List may only be submitted during the allowed submission period. After that period ends, new records will no longer be accepted.
+</p>
                 </div>
             </div>
         </main>
